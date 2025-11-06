@@ -33,7 +33,7 @@ while True:
         print('Comando Inválido')
     novamente = input('Deseja realizar novamente? [S/N] ').upper()
     if novamente == 'N':
-        print('Obrigada')
+        print('Obrigada!')
         break
 
 
